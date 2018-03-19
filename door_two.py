@@ -1,5 +1,5 @@
 names = ['susan', 'britey', 'andrew', 'jack', 'albert']
-password = "gayjay16"
+password = "gF4Jas58HsNg5"
 
 your_name = (input("Please enter your name: "))
 
